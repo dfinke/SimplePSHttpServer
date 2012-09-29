@@ -1,1 +1,1 @@
-Scripting Web API self host with PowerShell. Inspireded by http://www.strathweb.com/2012/09/scripting-web-api-self-host-with-roslyn-ctp-part-1/
+Scripting Web API self host with PowerShell. Inspired by http://www.strathweb.com/2012/09/scripting-web-api-self-host-with-roslyn-ctp-part-1/
